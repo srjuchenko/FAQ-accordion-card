@@ -1,4 +1,4 @@
-# FAQ-accordion-card-
+# FAQ-accordion-card
 
 ## Demo: [click here]()
 
