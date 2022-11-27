@@ -149,7 +149,7 @@ footer {
 
 /* MEDIA */
 
-@media (min-width: 901px) {
+@media screen and (min-width: 901px) {
   .FAQ-card {
     padding: 0;
     width: 915px;
@@ -177,9 +177,7 @@ footer {
   }
 
   .FAQ-quastions {
-    width: 100%;
     font-size: 14px;
-    font-weight: 400;
   }
   .FAQ-header h1 {
     margin-top: 65px;
